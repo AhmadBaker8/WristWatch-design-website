@@ -91,8 +91,6 @@ const countDown = ()=>{
   document.querySelector('#minutes').textContent = minutes;
   document.querySelector('#seconds').textContent = seconds;
 
-
-
 }
 
 setInterval(()=>{
